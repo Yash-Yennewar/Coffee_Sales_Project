@@ -1,5 +1,4 @@
 # Excel Project by Yash Yennewar
----
 
 # Coffee Sales Project Dashboard
 ![Coffee Background Banner (4)](Screenshots/coffee.jpg)
