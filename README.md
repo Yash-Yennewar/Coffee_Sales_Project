@@ -1,29 +1,37 @@
-# Coffee Sales Dashboard
+# Excel Project by Yash Yennewar
+---
+
+# Coffee Sales Project Dashboard
 ![Coffee Background Banner (4)](Screenshots/coffee.jpg)
 
-## Overview : 
-This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
+## Overview
 
-## Tool used :
+This dashboard provides a comprehensive analysis of the performance of three coffee shop locations within a regional chain. The primary objective of this dashboard is to present actionable insights to the regional manager, focusing on optimizing store operations, improving sales, and enhancing customer satisfaction.
+
+## Tool Used
+
 <img src="Screenshots/microsoft-excel.png" width="200" height="100"/>&nbsp;
 
+## Key Insights
 
-## Result and Insights :
-- I have noticed that the Revenue is continuously growing.
-- The busiest days are Mondays, Thursdays, and Fridays. This makes sense since people like to visit coffee shops when they are all jacked up for work.
-- The busiest hours are in the mornings when people are visiting their offices.
-- This trend is similar for all the stores.
-- The top category is coffee and the product is Barista Espresso across the board.
+* **Consistent Revenue Growth:** Revenue has been continuously growing, indicating steady customer interest and successful business operations.
+* **Peak Days Identified:** Mondays, Thursdays, and Fridays are the busiest days across all locations, aligning with typical work schedules.
+* **Peak Hours Analysis:** Morning hours see the highest customer traffic, particularly as people head to work.
+* **Top-Selling Product:** Coffee is the leading category, with Barista Espresso being the best-selling product across all stores.
 
 ## Additional Insights
-- We can see a continuous growth in revenue which indicates increasing popularity and success of the business
-- We can see a drastic increment in the revenue in May indicating that people are visiting the cafes often or in greater numbers
-- This could be due to the  holiday season and we should be prepared for this trend next year
-- Resource management for peak months
 
+* **Significant Revenue Spike in May:** A notable increase in revenue was observed in May, likely due to the holiday season. This trend suggests the need for better resource management during peak months.
+* **Underperforming Products:** Specific flavors, coffee beans, and merchandise (particularly clothing in Hell’s Kitchen) are among the lowest-selling items.
+* **Strategic Adjustments for Hell’s Kitchen:** Merchandise clothing at this location is significantly underperforming. We should consider introducing discounts or limiting availability to online orders only to reduce operational costs.
 
-## Data Story :
-I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
+## Recommendations
 
-## Dashboard :
+* Enhance staffing and stock management during peak days and hours to improve service quality.
+* Plan targeted promotions for May, leveraging the holiday season’s revenue potential.
+* Re-evaluate low-performing products and consider discounts or alternative sales strategies.
+* Regularly monitor product performance at each store to quickly adapt to changing customer preferences.
+
+## Dashboard Visualization
+
 <img src="Screenshots/Dashboard.png" width="3200" height="550"/>&nbsp;
