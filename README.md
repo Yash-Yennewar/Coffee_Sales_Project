@@ -7,6 +7,8 @@
 
 This dashboard provides a comprehensive analysis of the performance of three coffee shop locations within a regional chain. The primary objective of this dashboard is to present actionable insights to the regional manager, focusing on optimizing store operations, improving sales, and enhancing customer satisfaction.
 
+<a href ="Coffee Shop Sales Analysis(Project).xlsx">Coffee Shop Sales Analysis(Project)</a>
+
 ## Tool Used
 
 <img src="Screenshots/microsoft-excel.png" width="200" height="100"/>&nbsp;
