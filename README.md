@@ -35,4 +35,4 @@ This dashboard provides a comprehensive analysis of the performance of three cof
 
 ## Dashboard Visualization
 
-<img src="Screenshots/Dashboard.png" width="3200" height="550"/>&nbsp;
+<img src="Screenshots/Dashboard.png" width="3200" height="500"/>&nbsp;
