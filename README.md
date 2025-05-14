@@ -21,11 +21,11 @@ This dashboard is for presenting my insights to the regional manager of the coff
 - This could be due to the  holiday season and we should be prepared for this trend next year
 - Resource management for peak months
 
-![image](https://github.com/user-attachments/assets/16df1cba-d0fe-4dba-a1a9-e1e330c58dbf)
+![image](./microsoft-excel.png)
 
 
 ## Data Story :
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
 
 ## Dashboard :
-<img src="./Dashboard.png" width="3100" height="600"/>&nbsp;
+<img src="./Dashboard.png" width="3200" height="500"/>&nbsp;
